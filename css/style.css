@@ -198,12 +198,20 @@ a:focus:after {
   margin-top: 10px
 }
 
+.event a:hover {
+  color: red;
+}
+
 .slit1 {
   margin-top: 30px;
 }
 
 .section3 {
   margin-top: 50px
+}
+
+.vacation a:hover {
+  color: red;
 }
  
   
